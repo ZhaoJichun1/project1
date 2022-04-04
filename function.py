@@ -60,4 +60,3 @@ def onehot(y):
     for i in range(n):
         label[i, y[i]] = 1
     return label
-
