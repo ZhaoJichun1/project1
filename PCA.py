@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def pca(data):
     n = 3
     mean = np.mean(data, axis=0)
