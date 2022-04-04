@@ -5,4 +5,4 @@
 * test
 >> To test a network, please run test.py <br>
 <br>
-The program use imshow() to show some figures, it will not work if you use terminal to run the program
+The program use pyplot.show() to show some figures, it will not work if you use terminal to run the program
