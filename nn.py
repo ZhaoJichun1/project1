@@ -112,3 +112,5 @@ class SGD():
     def step(self):
         self.linear1.update(self.lr, self.weight_decay)
         self.linear2.update(self.lr, self.weight_decay)
+
+        
